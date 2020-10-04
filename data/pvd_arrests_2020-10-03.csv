@@ -1,4 +1,4 @@
-arrest_date,year,month,gender,race,ethnicity,year_of_birth,age,from_address,from_city,from_state,statute_type,statute_code,statute_desc,counts,case_number,arresting_officers,id
+arrest_date,year,month,gender,race,ethnicity,year_of_birth,age,from_address,from_city,from_state,statute_type,statute_code,statute_desc,counts,case_number,arresting_officers,arrestee_id
 2019-08-24T02:23:00.0,2019,8,Male,White,NonHispanic,1981,37,No Permanent Address,providence,Rhode Island,,,,,2019-00084142," YGonzalez, LTaveras",pvd2218242150382148273
 2019-08-24T02:02:00.0,2019,8,,,,1994,25,SUMMER AVE,Cranston,Rhode Island,RI Statute Violation,31-11-18,"Driving after Denial, Suspension or Revocation of License",1,2019-00084127, NManfredi,pvd15166785558364246202
 2019-08-24T02:02:00.0,2019,8,Female,Black,NonHispanic,1984,34,DOUGLAS AVE,Providence,Rhode Island,RI Statute Violation,12-7-10,RESISTING LEGAL OR ILLEGAL ARREST,1,2019-00084126," MPlace, JPerez, ASantos",pvd3142917706201385905
