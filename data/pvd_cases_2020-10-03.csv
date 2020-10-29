@@ -1,4 +1,4 @@
-casenumber,location,reported_date,month,year,offense_desc,statute_code,statute_desc,counts,reporting_officer
+case_number,location,reported_date,month,year,offense_desc,statute_code,statute_desc,counts,reporting_officer
 2019-00084162,1446 CHALKSTONE AVE,2019-08-24T03:41:43.0,8,2019,Vandalism,11-44-1,VANDALISM/MALICIOUS INJURY TO PROPERTY,1,SRomano
 2019-00084157,100 GASPEE ST,2019-08-24T03:25:25.0,8,2019,"Assault, Simple",11-5-3,SIMPLE ASSAULT OR BATTERY,1,ADaCruz
 2019-00084139,1137 BROAD ST,2019-08-24T02:26:00.0,8,2019,"Assault, Aggravated",11-5-2,FELONY ASSAULT/ DANG. WEAPON OR SUBSTANCE,3,MClary
